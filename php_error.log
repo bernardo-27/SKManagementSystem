@@ -1,0 +1,367 @@
+[18-Mar-2025 00:26:10 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\SKManagementSystem\password_reset.php on line 12
+[18-Mar-2025 00:26:25 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\SKManagementSystem\password_reset.php on line 12
+[18-Mar-2025 00:31:45 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\SKManagementSystem\password_reset.php on line 12
+[18-Mar-2025 00:32:22 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\SKManagementSystem\password_reset.php on line 12
+[18-Mar-2025 00:33:49 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\SKManagementSystem\password_reset.php on line 12
+[18-Mar-2025 00:42:15 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\SKManagementSystem\password_reset.php on line 12
+[18-Mar-2025 00:42:15 Europe/Berlin] Token validation error: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time FROM password_resets WHERE token = '26d04f016503b7e4080492ae3726...' at line 1
+[18-Mar-2025 00:42:22 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\SKManagementSystem\password_reset.php on line 12
+[18-Mar-2025 00:42:22 Europe/Berlin] Token validation error: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time FROM password_resets WHERE token = 'fc50fc397336c1e2860f32042569...' at line 1
+[18-Mar-2025 00:47:56 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\SKManagementSystem\password_reset.php on line 12
+[18-Mar-2025 00:47:56 Europe/Berlin] Token validation error: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time FROM password_resets WHERE token = 'b459656b12abf8c8a4b0f3cc80a7...' at line 1
+[18-Mar-2025 00:48:05 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\SKManagementSystem\password_reset.php on line 12
+[18-Mar-2025 00:48:05 Europe/Berlin] Token validation error: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time FROM password_resets WHERE token = '57106d20e7f4dbb3baf16d0a4e6a...' at line 1
+[18-Mar-2025 00:51:21 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\SKManagementSystem\password_reset.php on line 24
+[18-Mar-2025 00:51:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\SKManagementSystem\password_reset.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\SKManagementSystem\password_reset.php on line 24
+[18-Mar-2025 00:51:27 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\SKManagementSystem\password_reset.php on line 24
+[18-Mar-2025 00:51:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\SKManagementSystem\password_reset.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\SKManagementSystem\password_reset.php on line 24
+[18-Mar-2025 00:53:58 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\SKManagementSystem\password_reset.php on line 24
+[18-Mar-2025 00:53:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\SKManagementSystem\password_reset.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\SKManagementSystem\password_reset.php on line 24
+[18-Mar-2025 00:56:55 Europe/Berlin] DEMO MODE: Using demo credentials
+[18-Mar-2025 00:57:11 Europe/Berlin] DEMO MODE: Using demo credentials
+[18-Mar-2025 00:57:12 Europe/Berlin] DEMO MODE: Password would be updated to: $2y$10$vxqykzmnQ1b8P5.fvinzFetB4MKjritiPfI09w.S1N/e3ZaYbV6X2
+[18-Mar-2025 00:58:07 Europe/Berlin] DEMO MODE: Using demo credentials
+[18-Mar-2025 01:04:52 Europe/Berlin] DEMO MODE: Using demo credentials
+[18-Mar-2025 01:05:31 Europe/Berlin] DEMO MODE: Using demo credentials
+[18-Mar-2025 01:05:48 Europe/Berlin] DEMO MODE: Using demo credentials
+[18-Mar-2025 01:05:48 Europe/Berlin] DEMO MODE: Password would be updated to: $2y$10$7rXa7EWiYDO1HS5uhrhXRO7XgGG427u9xM/ecZ3qNEG6Kr6EkOkZ2
+[18-Mar-2025 01:06:12 Europe/Berlin] DEMO MODE: Using demo credentials
+[18-Mar-2025 01:11:16 Europe/Berlin] PHP Warning:  Undefined variable $tokenValid in C:\xampp\htdocs\SKManagementSystem\password_reset.php on line 155
+[18-Mar-2025 01:11:22 Europe/Berlin] PHP Warning:  Undefined variable $tokenValid in C:\xampp\htdocs\SKManagementSystem\password_reset.php on line 155
+[18-Mar-2025 01:18:07 Europe/Berlin] PHP Warning:  Undefined variable $tokenValid in C:\xampp\htdocs\SKManagementSystem\password_reset.php on line 155
+[18-Mar-2025 01:18:12 Europe/Berlin] PHP Warning:  Undefined variable $tokenValid in C:\xampp\htdocs\SKManagementSystem\password_reset.php on line 155
+[18-Mar-2025 01:25:58 Europe/Berlin] Script started. Token from URL: 1e969be1bd0932fb19fe50c396e48947
+[18-Mar-2025 01:25:58 Europe/Berlin] Demo mode: enabled
+[18-Mar-2025 01:25:58 Europe/Berlin] DEMO MODE: Using demo credentials
+[18-Mar-2025 01:26:50 Europe/Berlin] Script started. Token from URL: d935f790a396e6736abf95fa3cee04a5
+[18-Mar-2025 01:26:50 Europe/Berlin] Demo mode: enabled
+[18-Mar-2025 01:26:50 Europe/Berlin] DEMO MODE: Using demo credentials
+[18-Mar-2025 01:28:38 Europe/Berlin] Password reset requested for email: catrizbernardo27@gmail.com
+[18-Mar-2025 01:28:38 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\SKManagementSystem\forgot_password.php on line 74
+[18-Mar-2025 01:28:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\SKManagementSystem\forgot_password.php:74
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\SKManagementSystem\forgot_password.php on line 74
+[18-Mar-2025 01:30:12 Europe/Berlin] Password reset requested for email: catrizbernardo27@gmail.com
+[18-Mar-2025 01:30:12 Europe/Berlin] PHP Warning:  Undefined variable $conn in C:\xampp\htdocs\SKManagementSystem\forgot_password.php on line 74
+[18-Mar-2025 01:30:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\SKManagementSystem\forgot_password.php:74
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\SKManagementSystem\forgot_password.php on line 74
+[18-Mar-2025 01:31:23 Europe/Berlin] Script started. Token from URL: a49c2b4f38663405358d593f5cf88322
+[18-Mar-2025 01:31:23 Europe/Berlin] Demo mode: enabled
+[18-Mar-2025 01:31:23 Europe/Berlin] DEMO MODE: Using demo credentials
+[18-Mar-2025 01:33:59 Europe/Berlin] Script started. Token from URL: f271e2e6691367ae826c2439b79693b3
+[18-Mar-2025 01:33:59 Europe/Berlin] Demo mode: enabled
+[18-Mar-2025 01:33:59 Europe/Berlin] DEMO MODE: Using demo credentials
+[18-Mar-2025 01:35:28 Europe/Berlin] Script started. Token from URL: f271e2e6691367ae826c2439b79693b3
+[18-Mar-2025 01:35:28 Europe/Berlin] Demo mode: enabled
+[18-Mar-2025 01:35:28 Europe/Berlin] DEMO MODE: Using demo credentials
+[18-Mar-2025 01:41:26 Europe/Berlin] Script started. Token from URL: f271e2e6691367ae826c2439b79693b3
+[18-Mar-2025 01:41:26 Europe/Berlin] Current time: 2025-03-18 01:41:26
+[18-Mar-2025 01:41:26 Europe/Berlin] Token valid for user ID: 6, Email: catrizbernardo27@gmail.com
+[18-Mar-2025 01:41:26 Europe/Berlin] Token expires at: 2025-03-18 02:33:55, Current time: 2025-03-18 01:41:26
+[18-Mar-2025 02:10:14 Europe/Berlin] Script started. Token from URL: ce1aee385a6dc1185f0a7464208ae932
+[18-Mar-2025 02:10:14 Europe/Berlin] Current time: 2025-03-18 02:10:14
+[18-Mar-2025 02:10:14 Europe/Berlin] Token valid for user ID: 6, Email: catrizbernardo27@gmail.com
+[18-Mar-2025 02:10:14 Europe/Berlin] Token expires at: 2025-03-18 03:09:51, Current time: 2025-03-18 02:10:14
+[18-Mar-2025 02:14:01 Europe/Berlin] Script started. Token from URL: ce1aee385a6dc1185f0a7464208ae932
+[18-Mar-2025 02:14:01 Europe/Berlin] Current time: 2025-03-18 02:14:01
+[18-Mar-2025 02:14:01 Europe/Berlin] Token valid for user ID: 6, Email: catrizbernardo27@gmail.com
+[18-Mar-2025 02:14:01 Europe/Berlin] Token expires at: 2025-03-18 03:09:51, Current time: 2025-03-18 02:14:01
+[18-Mar-2025 02:14:01 Europe/Berlin] Form submitted. Token from form: ce1aee385a6dc1185f0a7464208ae932
+[18-Mar-2025 02:14:01 Europe/Berlin] Token valid on form submit for user ID: 6
+[18-Mar-2025 02:14:01 Europe/Berlin] Password updated successfully for user ID: 6
+[18-Mar-2025 02:14:12 Europe/Berlin] Script started. Token from URL: ce1aee385a6dc1185f0a7464208ae932
+[18-Mar-2025 02:14:12 Europe/Berlin] Current time: 2025-03-18 02:14:12
+[18-Mar-2025 02:14:12 Europe/Berlin] Invalid or expired token: ce1aee385a6dc1185f0a7464208ae932
+[18-Mar-2025 02:14:12 Europe/Berlin] Token not found in database.
+[18-Mar-2025 02:16:28 Europe/Berlin] Script started. Token from URL: 666d1c11d10a187d88ba05ca5fb361fa
+[18-Mar-2025 02:16:28 Europe/Berlin] Current time: 2025-03-18 02:16:28
+[18-Mar-2025 02:16:28 Europe/Berlin] Token valid for user ID: 6, Email: catrizbernardo27@gmail.com
+[18-Mar-2025 02:16:28 Europe/Berlin] Token expires at: 2025-03-18 03:15:37, Current time: 2025-03-18 02:16:28
+[18-Mar-2025 02:16:49 Europe/Berlin] Script started. Token from URL: 666d1c11d10a187d88ba05ca5fb361fa
+[18-Mar-2025 02:16:49 Europe/Berlin] Current time: 2025-03-18 02:16:49
+[18-Mar-2025 02:16:49 Europe/Berlin] Token valid for user ID: 6, Email: catrizbernardo27@gmail.com
+[18-Mar-2025 02:16:49 Europe/Berlin] Token expires at: 2025-03-18 03:15:37, Current time: 2025-03-18 02:16:49
+[18-Mar-2025 02:17:04 Europe/Berlin] Script started. Token from URL: 666d1c11d10a187d88ba05ca5fb361fa
+[18-Mar-2025 02:17:04 Europe/Berlin] Current time: 2025-03-18 02:17:04
+[18-Mar-2025 02:17:04 Europe/Berlin] Token valid for user ID: 6, Email: catrizbernardo27@gmail.com
+[18-Mar-2025 02:17:04 Europe/Berlin] Token expires at: 2025-03-18 03:15:37, Current time: 2025-03-18 02:17:04
+[18-Mar-2025 02:17:04 Europe/Berlin] Form submitted. Token from form: 666d1c11d10a187d88ba05ca5fb361fa
+[18-Mar-2025 02:17:04 Europe/Berlin] Token valid on form submit for user ID: 6
+[18-Mar-2025 02:17:04 Europe/Berlin] Password updated successfully for user ID: 6
+[18-Mar-2025 03:54:57 Europe/Berlin] Script started. Token from URL: 9e497e5ca87097f9d02fdc9c948bb8d4
+[18-Mar-2025 03:54:57 Europe/Berlin] Current time: 2025-03-18 03:54:57
+[18-Mar-2025 03:54:57 Europe/Berlin] Token valid for user ID: 11, Email: catrizbernardo27@gmail.com
+[18-Mar-2025 03:54:57 Europe/Berlin] Token expires at: 2025-03-18 04:54:46, Current time: 2025-03-18 03:54:57
+[18-Mar-2025 06:45:00 Europe/Berlin] Script started. Token from URL: 
+[18-Mar-2025 06:53:08 Europe/Berlin] Script started. Token from URL: 74f2606dc210a4ac69e7823a5478e665
+[18-Mar-2025 06:53:08 Europe/Berlin] Current time: 2025-03-18 06:53:08
+[18-Mar-2025 06:53:08 Europe/Berlin] Token valid for user ID: 11, Email: catrizbernardo27@gmail.com
+[18-Mar-2025 06:53:08 Europe/Berlin] Token expires at: 2025-03-18 06:53:16, Current time: 2025-03-18 06:53:08
+[18-Mar-2025 06:53:34 Europe/Berlin] Script started. Token from URL: 74f2606dc210a4ac69e7823a5478e665
+[18-Mar-2025 06:53:34 Europe/Berlin] Current time: 2025-03-18 06:53:34
+[18-Mar-2025 06:53:34 Europe/Berlin] Invalid or expired token: 74f2606dc210a4ac69e7823a5478e665
+[18-Mar-2025 06:53:34 Europe/Berlin] Token found but expired. Expires: 2025-03-18 06:53:16
+[18-Mar-2025 06:53:34 Europe/Berlin] Time difference: -18 seconds
+[18-Mar-2025 06:53:34 Europe/Berlin] Form submitted. Token from form: 74f2606dc210a4ac69e7823a5478e665
+[18-Mar-2025 06:53:34 Europe/Berlin] Token invalid on form submit
+[18-Mar-2025 06:54:17 Europe/Berlin] Script started. Token from URL: d0c12fc59991976246e4a77c105938fd
+[18-Mar-2025 06:54:17 Europe/Berlin] Current time: 2025-03-18 06:54:17
+[18-Mar-2025 06:54:17 Europe/Berlin] Invalid or expired token: d0c12fc59991976246e4a77c105938fd
+[18-Mar-2025 06:54:17 Europe/Berlin] Token not found in database.
+[18-Mar-2025 06:55:31 Europe/Berlin] Script started. Token from URL: eac3a31d5f674744b65187e64542b38d
+[18-Mar-2025 06:55:31 Europe/Berlin] Current time: 2025-03-18 06:55:31
+[18-Mar-2025 06:55:31 Europe/Berlin] Token valid for user ID: 11, Email: catrizbernardo27@gmail.com
+[18-Mar-2025 06:55:31 Europe/Berlin] Token expires at: 2025-03-18 07:54:54, Current time: 2025-03-18 06:55:31
+[18-Mar-2025 06:55:43 Europe/Berlin] Script started. Token from URL: eac3a31d5f674744b65187e64542b38d
+[18-Mar-2025 06:55:43 Europe/Berlin] Current time: 2025-03-18 06:55:43
+[18-Mar-2025 06:55:43 Europe/Berlin] Token valid for user ID: 11, Email: catrizbernardo27@gmail.com
+[18-Mar-2025 06:55:43 Europe/Berlin] Token expires at: 2025-03-18 07:54:54, Current time: 2025-03-18 06:55:43
+[18-Mar-2025 06:55:43 Europe/Berlin] Form submitted. Token from form: eac3a31d5f674744b65187e64542b38d
+[18-Mar-2025 06:55:43 Europe/Berlin] Token valid on form submit for user ID: 11
+[18-Mar-2025 06:55:44 Europe/Berlin] Password updated successfully for user ID: 11
+[18-Mar-2025 06:56:39 Europe/Berlin] Script started. Token from URL: 13769d7239bcc3d64450a74e4e28d11a
+[18-Mar-2025 06:56:39 Europe/Berlin] Current time: 2025-03-18 06:56:39
+[18-Mar-2025 06:56:39 Europe/Berlin] Token valid for user ID: 11, Email: catrizbernardo27@gmail.com
+[18-Mar-2025 06:56:39 Europe/Berlin] Token expires at: 2025-03-18 07:56:19, Current time: 2025-03-18 06:56:39
+[18-Mar-2025 06:56:47 Europe/Berlin] Script started. Token from URL: 13769d7239bcc3d64450a74e4e28d11a
+[18-Mar-2025 06:56:47 Europe/Berlin] Current time: 2025-03-18 06:56:47
+[18-Mar-2025 06:56:47 Europe/Berlin] Token valid for user ID: 11, Email: catrizbernardo27@gmail.com
+[18-Mar-2025 06:56:47 Europe/Berlin] Token expires at: 2025-03-18 07:56:19, Current time: 2025-03-18 06:56:47
+[18-Mar-2025 06:56:47 Europe/Berlin] Form submitted. Token from form: 13769d7239bcc3d64450a74e4e28d11a
+[18-Mar-2025 06:56:47 Europe/Berlin] Token valid on form submit for user ID: 11
+[18-Mar-2025 06:56:47 Europe/Berlin] Password updated successfully for user ID: 11
+[18-Mar-2025 06:57:50 Europe/Berlin] Script started. Token from URL: 13769d7239bcc3d64450a74e4e28d11a
+[18-Mar-2025 06:57:50 Europe/Berlin] Current time: 2025-03-18 06:57:50
+[18-Mar-2025 06:57:50 Europe/Berlin] Invalid or expired token: 13769d7239bcc3d64450a74e4e28d11a
+[18-Mar-2025 06:57:50 Europe/Berlin] Token not found in database.
+[18-Mar-2025 06:58:13 Europe/Berlin] Script started. Token from URL: e7acf599ae6c9b3abc4811af423eac6c
+[18-Mar-2025 06:58:13 Europe/Berlin] Current time: 2025-03-18 06:58:13
+[18-Mar-2025 06:58:13 Europe/Berlin] Token valid for user ID: 11, Email: catrizbernardo27@gmail.com
+[18-Mar-2025 06:58:13 Europe/Berlin] Token expires at: 2025-03-18 07:57:56, Current time: 2025-03-18 06:58:13
+[18-Mar-2025 07:13:32 Europe/Berlin] Script started. Token from URL: 01d96f589956b6dc12cffd2383d58ff6
+[18-Mar-2025 07:13:32 Europe/Berlin] Current time: 2025-03-18 07:13:32
+[18-Mar-2025 07:13:32 Europe/Berlin] Token valid for user ID: 11, Email: catrizbernardo27@gmail.com
+[18-Mar-2025 07:13:32 Europe/Berlin] Token expires at: 2025-03-18 08:12:57, Current time: 2025-03-18 07:13:32
+[18-Mar-2025 07:13:54 Europe/Berlin] Script started. Token from URL: 01d96f589956b6dc12cffd2383d58ff6
+[18-Mar-2025 07:13:54 Europe/Berlin] Current time: 2025-03-18 07:13:54
+[18-Mar-2025 07:13:54 Europe/Berlin] Token valid for user ID: 11, Email: catrizbernardo27@gmail.com
+[18-Mar-2025 07:13:54 Europe/Berlin] Token expires at: 2025-03-18 08:12:57, Current time: 2025-03-18 07:13:54
+[18-Mar-2025 07:13:54 Europe/Berlin] Form submitted. Token from form: 01d96f589956b6dc12cffd2383d58ff6
+[18-Mar-2025 07:13:54 Europe/Berlin] Token valid on form submit for user ID: 11
+[18-Mar-2025 07:13:54 Europe/Berlin] Password updated successfully for user ID: 11
+[22-Apr-2025 08:07:51 Europe/Berlin] Script started. Token from URL: d64f7c2fcfe5811712ed3615f7c86613
+[22-Apr-2025 08:07:51 Europe/Berlin] Current time: 2025-04-22 08:07:51
+[22-Apr-2025 08:07:51 Europe/Berlin] Invalid or expired token: d64f7c2fcfe5811712ed3615f7c86613
+[22-Apr-2025 08:07:51 Europe/Berlin] Token not found in database.
+[22-Apr-2025 08:08:26 Europe/Berlin] Script started. Token from URL: af78c40c20e11acc1c6ef8e86740bec6
+[22-Apr-2025 08:08:26 Europe/Berlin] Current time: 2025-04-22 08:08:26
+[22-Apr-2025 08:08:26 Europe/Berlin] Token valid for user ID: 11, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 08:08:26 Europe/Berlin] Token expires at: 2025-04-22 09:08:17, Current time: 2025-04-22 08:08:26
+[22-Apr-2025 08:08:49 Europe/Berlin] Script started. Token from URL: af78c40c20e11acc1c6ef8e86740bec6
+[22-Apr-2025 08:08:49 Europe/Berlin] Current time: 2025-04-22 08:08:49
+[22-Apr-2025 08:08:49 Europe/Berlin] Token valid for user ID: 11, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 08:08:49 Europe/Berlin] Token expires at: 2025-04-22 09:08:17, Current time: 2025-04-22 08:08:49
+[22-Apr-2025 08:08:49 Europe/Berlin] Form submitted. Token from form: af78c40c20e11acc1c6ef8e86740bec6
+[22-Apr-2025 08:08:49 Europe/Berlin] Token valid on form submit for user ID: 11
+[22-Apr-2025 08:08:49 Europe/Berlin] Password updated successfully for user ID: 11
+[22-Apr-2025 08:44:45 Europe/Berlin] Script started. Token from URL: ac2c549851f9b3df94c90068ae0a7a1b
+[22-Apr-2025 08:44:45 Europe/Berlin] Current time: 2025-04-22 08:44:45
+[22-Apr-2025 08:44:45 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 08:44:45 Europe/Berlin] Token expires at: 2025-04-22 09:44:13, Current time: 2025-04-22 08:44:45
+[22-Apr-2025 08:45:15 Europe/Berlin] Script started. Token from URL: ac2c549851f9b3df94c90068ae0a7a1b
+[22-Apr-2025 08:45:15 Europe/Berlin] Current time: 2025-04-22 08:45:15
+[22-Apr-2025 08:45:15 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 08:45:15 Europe/Berlin] Token expires at: 2025-04-22 09:44:13, Current time: 2025-04-22 08:45:15
+[22-Apr-2025 08:45:15 Europe/Berlin] Form submitted. Token from form: ac2c549851f9b3df94c90068ae0a7a1b
+[22-Apr-2025 08:45:15 Europe/Berlin] Token valid on form submit for user ID: 16
+[22-Apr-2025 08:45:15 Europe/Berlin] Password updated successfully for user ID: 16
+[22-Apr-2025 14:19:03 Europe/Berlin] Script started. Token from URL: 8360579088e03ce1422054785a627545
+[22-Apr-2025 14:19:03 Europe/Berlin] Current time: 2025-04-22 14:19:03
+[22-Apr-2025 14:19:03 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 14:19:03 Europe/Berlin] Token expires at: 2025-04-22 15:18:36, Current time: 2025-04-22 14:19:03
+[22-Apr-2025 14:19:25 Europe/Berlin] Script started. Token from URL: 8360579088e03ce1422054785a627545
+[22-Apr-2025 14:19:25 Europe/Berlin] Current time: 2025-04-22 14:19:25
+[22-Apr-2025 14:19:25 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 14:19:25 Europe/Berlin] Token expires at: 2025-04-22 15:18:36, Current time: 2025-04-22 14:19:25
+[22-Apr-2025 14:19:25 Europe/Berlin] Form submitted. Token from form: 8360579088e03ce1422054785a627545
+[22-Apr-2025 14:19:25 Europe/Berlin] Token valid on form submit for user ID: 16
+[22-Apr-2025 14:19:25 Europe/Berlin] Password updated successfully for user ID: 16
+[22-Apr-2025 14:22:51 Europe/Berlin] Script started. Token from URL: cf3dc625158092348ced5e5a890e0fe9
+[22-Apr-2025 14:22:51 Europe/Berlin] Current time: 2025-04-22 14:22:51
+[22-Apr-2025 14:22:51 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 14:22:51 Europe/Berlin] Token expires at: 2025-04-22 15:22:33, Current time: 2025-04-22 14:22:51
+[22-Apr-2025 14:23:06 Europe/Berlin] Script started. Token from URL: cf3dc625158092348ced5e5a890e0fe9
+[22-Apr-2025 14:23:06 Europe/Berlin] Current time: 2025-04-22 14:23:06
+[22-Apr-2025 14:23:06 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 14:23:06 Europe/Berlin] Token expires at: 2025-04-22 15:22:33, Current time: 2025-04-22 14:23:06
+[22-Apr-2025 14:23:06 Europe/Berlin] Form submitted. Token from form: cf3dc625158092348ced5e5a890e0fe9
+[22-Apr-2025 14:23:06 Europe/Berlin] Token valid on form submit for user ID: 16
+[22-Apr-2025 14:23:06 Europe/Berlin] Password updated successfully for user ID: 16
+[22-Apr-2025 14:24:54 Europe/Berlin] Script started. Token from URL: 6e22a48c76a7431403aaee3fa0840fbc
+[22-Apr-2025 14:24:54 Europe/Berlin] Current time: 2025-04-22 14:24:54
+[22-Apr-2025 14:24:54 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 14:24:54 Europe/Berlin] Token expires at: 2025-04-22 15:24:39, Current time: 2025-04-22 14:24:54
+[22-Apr-2025 14:25:05 Europe/Berlin] Script started. Token from URL: 6e22a48c76a7431403aaee3fa0840fbc
+[22-Apr-2025 14:25:05 Europe/Berlin] Current time: 2025-04-22 14:25:05
+[22-Apr-2025 14:25:05 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 14:25:05 Europe/Berlin] Token expires at: 2025-04-22 15:24:39, Current time: 2025-04-22 14:25:05
+[22-Apr-2025 14:25:05 Europe/Berlin] Form submitted. Token from form: 6e22a48c76a7431403aaee3fa0840fbc
+[22-Apr-2025 14:25:05 Europe/Berlin] Token valid on form submit for user ID: 16
+[22-Apr-2025 14:25:05 Europe/Berlin] Password updated successfully for user ID: 16
+[22-Apr-2025 14:34:54 Europe/Berlin] Script started. Token from URL: 306566054bf21f3f07a0d031869d8887
+[22-Apr-2025 14:34:54 Europe/Berlin] Current time: 2025-04-22 14:34:54
+[22-Apr-2025 14:34:54 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 14:34:54 Europe/Berlin] Token expires at: 2025-04-22 15:34:37, Current time: 2025-04-22 14:34:54
+[22-Apr-2025 14:35:25 Europe/Berlin] Script started. Token from URL: 306566054bf21f3f07a0d031869d8887
+[22-Apr-2025 14:35:25 Europe/Berlin] Current time: 2025-04-22 14:35:25
+[22-Apr-2025 14:35:25 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 14:35:25 Europe/Berlin] Token expires at: 2025-04-22 15:34:37, Current time: 2025-04-22 14:35:25
+[22-Apr-2025 14:35:25 Europe/Berlin] Form submitted. Token from form: 306566054bf21f3f07a0d031869d8887
+[22-Apr-2025 14:35:25 Europe/Berlin] Token valid on form submit for user ID: 16
+[22-Apr-2025 14:35:25 Europe/Berlin] Password updated successfully for user ID: 16
+[22-Apr-2025 14:39:55 Europe/Berlin] Script started. Token from URL: 73af357e88b8187d7d595f98c15cc02a
+[22-Apr-2025 14:39:55 Europe/Berlin] Current time: 2025-04-22 14:39:55
+[22-Apr-2025 14:39:55 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 14:39:55 Europe/Berlin] Token expires at: 2025-04-22 15:36:27, Current time: 2025-04-22 14:39:55
+[22-Apr-2025 14:39:59 Europe/Berlin] Script started. Token from URL: 73af357e88b8187d7d595f98c15cc02a
+[22-Apr-2025 14:39:59 Europe/Berlin] Current time: 2025-04-22 14:39:59
+[22-Apr-2025 14:39:59 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 14:39:59 Europe/Berlin] Token expires at: 2025-04-22 15:36:27, Current time: 2025-04-22 14:39:59
+[22-Apr-2025 14:40:00 Europe/Berlin] Script started. Token from URL: 73af357e88b8187d7d595f98c15cc02a
+[22-Apr-2025 14:40:00 Europe/Berlin] Current time: 2025-04-22 14:40:00
+[22-Apr-2025 14:40:00 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 14:40:00 Europe/Berlin] Token expires at: 2025-04-22 15:36:27, Current time: 2025-04-22 14:40:00
+[22-Apr-2025 14:40:15 Europe/Berlin] Script started. Token from URL: 73af357e88b8187d7d595f98c15cc02a
+[22-Apr-2025 14:40:15 Europe/Berlin] Current time: 2025-04-22 14:40:15
+[22-Apr-2025 14:40:15 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 14:40:15 Europe/Berlin] Token expires at: 2025-04-22 15:36:27, Current time: 2025-04-22 14:40:15
+[22-Apr-2025 14:40:15 Europe/Berlin] Form submitted. Token from form: 73af357e88b8187d7d595f98c15cc02a
+[22-Apr-2025 14:40:15 Europe/Berlin] Token valid on form submit for user ID: 16
+[22-Apr-2025 14:40:15 Europe/Berlin] Password does not meet requirements
+[22-Apr-2025 14:40:33 Europe/Berlin] Script started. Token from URL: 73af357e88b8187d7d595f98c15cc02a
+[22-Apr-2025 14:40:33 Europe/Berlin] Current time: 2025-04-22 14:40:33
+[22-Apr-2025 14:40:33 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 14:40:33 Europe/Berlin] Token expires at: 2025-04-22 15:36:27, Current time: 2025-04-22 14:40:33
+[22-Apr-2025 14:40:33 Europe/Berlin] Form submitted. Token from form: 73af357e88b8187d7d595f98c15cc02a
+[22-Apr-2025 14:40:33 Europe/Berlin] Token valid on form submit for user ID: 16
+[22-Apr-2025 14:40:33 Europe/Berlin] Password updated successfully for user ID: 16
+[22-Apr-2025 14:46:43 Europe/Berlin] Script started. Token from URL: b0cf8e2edba4103dc56093578daa4116
+[22-Apr-2025 14:46:43 Europe/Berlin] Current time: 2025-04-22 14:46:43
+[22-Apr-2025 14:46:43 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 14:46:43 Europe/Berlin] Token expires at: 2025-04-22 15:45:44, Current time: 2025-04-22 14:46:43
+[22-Apr-2025 14:46:48 Europe/Berlin] Script started. Token from URL: b0cf8e2edba4103dc56093578daa4116
+[22-Apr-2025 14:46:48 Europe/Berlin] Current time: 2025-04-22 14:46:48
+[22-Apr-2025 14:46:48 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 14:46:48 Europe/Berlin] Token expires at: 2025-04-22 15:45:44, Current time: 2025-04-22 14:46:48
+[22-Apr-2025 14:47:13 Europe/Berlin] Script started. Token from URL: b0cf8e2edba4103dc56093578daa4116
+[22-Apr-2025 14:47:13 Europe/Berlin] Current time: 2025-04-22 14:47:13
+[22-Apr-2025 14:47:13 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 14:47:13 Europe/Berlin] Token expires at: 2025-04-22 15:45:44, Current time: 2025-04-22 14:47:13
+[22-Apr-2025 15:02:50 Europe/Berlin] Script started. Token from URL: 261758424b5bc7ca505d795fa3774077
+[22-Apr-2025 15:02:50 Europe/Berlin] Current time: 2025-04-22 15:02:50
+[22-Apr-2025 15:02:50 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 15:02:50 Europe/Berlin] Token expires at: 2025-04-22 16:02:11, Current time: 2025-04-22 15:02:50
+[22-Apr-2025 15:04:44 Europe/Berlin] Script started. Token from URL: 261758424b5bc7ca505d795fa3774077
+[22-Apr-2025 15:04:44 Europe/Berlin] Current time: 2025-04-22 15:04:44
+[22-Apr-2025 15:04:44 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 15:04:44 Europe/Berlin] Token expires at: 2025-04-22 16:02:11, Current time: 2025-04-22 15:04:44
+[22-Apr-2025 15:05:19 Europe/Berlin] Script started. Token from URL: 261758424b5bc7ca505d795fa3774077
+[22-Apr-2025 15:05:19 Europe/Berlin] Current time: 2025-04-22 15:05:19
+[22-Apr-2025 15:05:19 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 15:05:19 Europe/Berlin] Token expires at: 2025-04-22 16:02:11, Current time: 2025-04-22 15:05:19
+[22-Apr-2025 15:05:19 Europe/Berlin] Form submitted. Token from form: 261758424b5bc7ca505d795fa3774077
+[22-Apr-2025 15:05:19 Europe/Berlin] Token valid on form submit for user ID: 16
+[22-Apr-2025 15:05:19 Europe/Berlin] Activity logging error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sk_management.activity_logs' doesn't exist
+[22-Apr-2025 15:05:19 Europe/Berlin] Password updated successfully for user ID: 16
+[22-Apr-2025 15:43:48 Europe/Berlin] Script started. Token from URL: 3b23d2f050c1ca1b5f69c37e61b1f2e1
+[22-Apr-2025 15:43:48 Europe/Berlin] Current time: 2025-04-22 15:43:48
+[22-Apr-2025 15:43:48 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 15:43:48 Europe/Berlin] Token expires at: 2025-04-22 16:43:29, Current time: 2025-04-22 15:43:48
+[22-Apr-2025 15:44:08 Europe/Berlin] Script started. Token from URL: 3b23d2f050c1ca1b5f69c37e61b1f2e1
+[22-Apr-2025 15:44:08 Europe/Berlin] Current time: 2025-04-22 15:44:08
+[22-Apr-2025 15:44:08 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 15:44:08 Europe/Berlin] Token expires at: 2025-04-22 16:43:29, Current time: 2025-04-22 15:44:08
+[22-Apr-2025 15:44:23 Europe/Berlin] Script started. Token from URL: 3b23d2f050c1ca1b5f69c37e61b1f2e1
+[22-Apr-2025 15:44:23 Europe/Berlin] Current time: 2025-04-22 15:44:23
+[22-Apr-2025 15:44:23 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 15:44:23 Europe/Berlin] Token expires at: 2025-04-22 16:43:29, Current time: 2025-04-22 15:44:23
+[22-Apr-2025 15:44:23 Europe/Berlin] Form submitted. Token from form: 3b23d2f050c1ca1b5f69c37e61b1f2e1
+[22-Apr-2025 15:44:23 Europe/Berlin] Token valid on form submit for user ID: 16
+[22-Apr-2025 15:44:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function logActivity() in C:\xampp\htdocs\SKManagementSystem\password_reset.php:149
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\SKManagementSystem\password_reset.php on line 149
+[22-Apr-2025 15:44:34 Europe/Berlin] Script started. Token from URL: 3b23d2f050c1ca1b5f69c37e61b1f2e1
+[22-Apr-2025 15:44:34 Europe/Berlin] Current time: 2025-04-22 15:44:34
+[22-Apr-2025 15:44:34 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 15:44:34 Europe/Berlin] Token expires at: 2025-04-22 16:43:29, Current time: 2025-04-22 15:44:34
+[22-Apr-2025 15:44:34 Europe/Berlin] Form submitted. Token from form: 3b23d2f050c1ca1b5f69c37e61b1f2e1
+[22-Apr-2025 15:44:34 Europe/Berlin] Token valid on form submit for user ID: 16
+[22-Apr-2025 15:44:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function logActivity() in C:\xampp\htdocs\SKManagementSystem\password_reset.php:149
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\SKManagementSystem\password_reset.php on line 149
+[22-Apr-2025 15:44:40 Europe/Berlin] Script started. Token from URL: 3b23d2f050c1ca1b5f69c37e61b1f2e1
+[22-Apr-2025 15:44:40 Europe/Berlin] Current time: 2025-04-22 15:44:40
+[22-Apr-2025 15:44:40 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 15:44:40 Europe/Berlin] Token expires at: 2025-04-22 16:43:29, Current time: 2025-04-22 15:44:40
+[22-Apr-2025 15:44:40 Europe/Berlin] Form submitted. Token from form: 3b23d2f050c1ca1b5f69c37e61b1f2e1
+[22-Apr-2025 15:44:40 Europe/Berlin] Token valid on form submit for user ID: 16
+[22-Apr-2025 15:44:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function logActivity() in C:\xampp\htdocs\SKManagementSystem\password_reset.php:149
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\SKManagementSystem\password_reset.php on line 149
+[22-Apr-2025 15:48:19 Europe/Berlin] Script started. Token from URL: 697d4782d128e7a6cafe993de1015737
+[22-Apr-2025 15:48:19 Europe/Berlin] Current time: 2025-04-22 15:48:19
+[22-Apr-2025 15:48:19 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 15:48:19 Europe/Berlin] Token expires at: 2025-04-22 16:48:10, Current time: 2025-04-22 15:48:19
+[22-Apr-2025 15:48:33 Europe/Berlin] Script started. Token from URL: 697d4782d128e7a6cafe993de1015737
+[22-Apr-2025 15:48:33 Europe/Berlin] Current time: 2025-04-22 15:48:33
+[22-Apr-2025 15:48:33 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 15:48:33 Europe/Berlin] Token expires at: 2025-04-22 16:48:10, Current time: 2025-04-22 15:48:33
+[22-Apr-2025 15:48:33 Europe/Berlin] Form submitted. Token from form: 697d4782d128e7a6cafe993de1015737
+[22-Apr-2025 15:48:33 Europe/Berlin] Token valid on form submit for user ID: 16
+[22-Apr-2025 15:48:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function logActivity() in C:\xampp\htdocs\SKManagementSystem\password_reset.php:149
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\SKManagementSystem\password_reset.php on line 149
+[22-Apr-2025 15:48:53 Europe/Berlin] Script started. Token from URL: 697d4782d128e7a6cafe993de1015737
+[22-Apr-2025 15:48:53 Europe/Berlin] Current time: 2025-04-22 15:48:53
+[22-Apr-2025 15:48:53 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 15:48:53 Europe/Berlin] Token expires at: 2025-04-22 16:48:10, Current time: 2025-04-22 15:48:53
+[22-Apr-2025 15:49:23 Europe/Berlin] Script started. Token from URL: 697d4782d128e7a6cafe993de1015737
+[22-Apr-2025 15:49:23 Europe/Berlin] Current time: 2025-04-22 15:49:23
+[22-Apr-2025 15:49:23 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 15:49:23 Europe/Berlin] Token expires at: 2025-04-22 16:48:10, Current time: 2025-04-22 15:49:23
+[22-Apr-2025 15:49:35 Europe/Berlin] Script started. Token from URL: 697d4782d128e7a6cafe993de1015737
+[22-Apr-2025 15:49:35 Europe/Berlin] Current time: 2025-04-22 15:49:35
+[22-Apr-2025 15:49:35 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 15:49:35 Europe/Berlin] Token expires at: 2025-04-22 16:48:10, Current time: 2025-04-22 15:49:35
+[22-Apr-2025 15:49:45 Europe/Berlin] Script started. Token from URL: 697d4782d128e7a6cafe993de1015737
+[22-Apr-2025 15:49:45 Europe/Berlin] Current time: 2025-04-22 15:49:45
+[22-Apr-2025 15:49:45 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 15:49:45 Europe/Berlin] Token expires at: 2025-04-22 16:48:10, Current time: 2025-04-22 15:49:45
+[22-Apr-2025 15:49:45 Europe/Berlin] Form submitted. Token from form: 697d4782d128e7a6cafe993de1015737
+[22-Apr-2025 15:49:45 Europe/Berlin] Token valid on form submit for user ID: 16
+[22-Apr-2025 15:49:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function logActivity() in C:\xampp\htdocs\SKManagementSystem\password_reset.php:148
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\SKManagementSystem\password_reset.php on line 148
+[22-Apr-2025 15:52:56 Europe/Berlin] Script started. Token from URL: 697d4782d128e7a6cafe993de1015737
+[22-Apr-2025 15:52:56 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 15:53:06 Europe/Berlin] Script started. Token from URL: 697d4782d128e7a6cafe993de1015737
+[22-Apr-2025 15:53:06 Europe/Berlin] Token valid for user ID: 16, Email: catrizbernardo27@gmail.com
+[22-Apr-2025 15:53:06 Europe/Berlin] Form submitted. Token from form: 697d4782d128e7a6cafe993de1015737
+[22-Apr-2025 15:53:06 Europe/Berlin] Password updated successfully for user ID: 16
